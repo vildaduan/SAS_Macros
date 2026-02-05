@@ -28,10 +28,10 @@ This repository contains a SAS-based clinical reporting program designed to gene
 ---
 
 ## File Structure
-* `TABLE2.sas`: The primary SAS script containing the analysis and reporting logic.
+* `Table Generation_Safety Population.sas`: The primary SAS script containing the analysis and reporting logic.
 * `rtf.sas`: A supporting macro for RTF styling and formatting.
 * `ADSL.sas7bdat`: (Assumed) Input ADaM dataset.
-* `T_2.rtf`: The final output demographic table.
+
 
 ## Example Output Header
 The program produces a report with the following structure:
