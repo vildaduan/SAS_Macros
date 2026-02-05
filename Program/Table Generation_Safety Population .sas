@@ -1,3 +1,13 @@
+/*********************************************************
+* Client:
+* Project: 	Xanomeline 
+
+* Program: 
+
+* SAS Version:9.4
+* Author: Vilda
+*********************************************************/
+
 /* SAFETY POPULATION TABLE */
 LIBNAME ADAM "/home/u63918846/Adam_sdtm/Adam";
 
